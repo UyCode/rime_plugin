@@ -1,4 +1,3 @@
-# rime_plugin
 # this uyghur input method plugin perfectly mathch with rime and windows uyghur input method style.
 
 # step 1
